@@ -54,11 +54,9 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityabagast&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adityabagast&theme=tokyonight" alt="Streak stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabagast&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=adityabagast&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=adityabagast&theme=tokyonight" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityabagast&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
 ---
@@ -75,20 +73,8 @@
 ### 📫 Let’s Connect!
 
 <p>
-  <a href="https://www.instagram.com/your_instagram_username" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="mailto:your@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/your_linkedin_username" target="_blank">
+  <a href="https://www.linkedin.com/in/adityabagast" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://wa.me/62yourwhatsappnumber" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a href="https://t.me/yourtelegramusername" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white"/>
   </a>
 </p>
 
