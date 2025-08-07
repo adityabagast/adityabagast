@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Bagas</h1>
+<h1 align="center">Hi 👋, I'm Aditya Bagas Triswanto</h1>
 <h3 align="center">📚 Backend Explorer | 🎯 Problem Solver | 🧑‍💻 Always Learning</h3>
 
 <p align="center">
