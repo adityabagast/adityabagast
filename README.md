@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Bagas Triswanto</h1>
-<h3 align="center">📚 Backend Explorer | 🎯 Problem Solver | 🧑‍💻 Always Learning</h3>
+<h3 align="center">📚 Backend Developer | 🎯 Problem Solver | 🚀 Lifelong Learner</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adityabagast&label=Profile%20views&color=0e75b6&style=flat" alt="adityabagast" />
@@ -7,16 +7,17 @@
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
-- 💼 Currently working with **C#** in real-world backend projects  
-- 🛠️ Actively exploring **Backend Development** (REST APIs, databases, clean architecture)  
-- 💬 Ask me about **Git, C#, basic programming, backend flow**  
-- ⚡ Fun Fact: ngoding backend sambil ngopi itu combo terbaik ☕💻  
+- 💼 Currently working with **C#** on real-world backend projects  
+- 🛠️ Passionate about **Backend Development** (APIs, Databases, Clean Architecture)  
+- 🌱 Always learning new tech and best practices  
+- 💬 Ask me about **C#, Git, Backend flow, and databases**  
+- ⚡ Fun fact: Ngoding backend sambil ngopi itu combo terbaik ☕💻  
 
 ---
 
-### 🧰 Languages and Tools
+## 🧰 Tech Stack
 
 <p align="left">
   <!-- Backend & Languages -->
@@ -51,7 +52,7 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=adityabagast&show_icons=true&theme=tokyonight" alt="GitHub stats" />
@@ -61,16 +62,16 @@
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
 
-- 🔗 [belajargithub](https://github.com/adityabagast/belajargithub) — belajar github betaclass arkademy  
-- 🔗 [linux](https://github.com/adityabagast/linux) — coba git pada linux  
-- 🔗 [tugas-akhir-beta-class](https://github.com/adityabagast/tugas-akhir-beta-class)  
-- 🔗 [calculator-C](https://github.com/adityabagast/calculator-C)  
+- 🔗 [Belajar GitHub](https://github.com/adityabagast/belajargithub) — belajar GitHub betaclass Arkademy  
+- 🔗 [Linux](https://github.com/adityabagast/linux) — eksplorasi Git di Linux  
+- 🔗 [Tugas Akhir Beta Class](https://github.com/adityabagast/tugas-akhir-beta-class) — final project Arkademy  
+- 🔗 [Calculator C](https://github.com/adityabagast/calculator-C) — simple calculator project in C  
 
 ---
 
-### 📫 Let’s Connect!
+## 📫 Connect With Me
 
 <p>
   <a href="https://www.linkedin.com/in/adityabagast" target="_blank">
@@ -80,4 +81,4 @@
 
 ---
 
-<p align="center"><i>Keep grinding, keep coding, and never stop learning 🚀</i></p>
+<p align="center"><i>“Keep grinding, keep coding, and never stop learning 🚀”</i></p>
